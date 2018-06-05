@@ -22,7 +22,7 @@ Authored by: lucky mehra
 # the path to current workspace (county folder with subdivided shape files)
 path = r"C:\Users\drew.posny\Desktop\Aerial\Martin"
 
-# citrus shape file abbreviated county name + subregion (eg He2)
+# citrus shape file abbreviated county name + subregion (eg HeSm)
 region = "Martin_1"
 
 # two digit year
